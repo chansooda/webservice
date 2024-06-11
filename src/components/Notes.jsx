@@ -31,8 +31,7 @@ function Notes() {
       };
     return (
         <div>
-            <h2 >메모</h2>
-            import { FontAwesomeIcon } from
+            <h2 >메모s</h2>
             <input
                 type="text"
                 placeholder="새 메모 입력"
